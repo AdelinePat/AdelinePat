@@ -1,4 +1,6 @@
-<h1 style="text-align: center;  display: block; width: 100%; line-height: 300px; vertical-align: center; background: url(https://images.unsplash.com/photo-1502657877623-f66bf489d236?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) 50% 60%; background-size: cover;text-transform: uppercase; text-shadow: 0px 0px 6px white; font-size: 50pt; letter-spacing: 7pt; color: white; border-bottom: 2px solid #03617b;">Adeline</h1>
+![banner](https://media.discordapp.net/attachments/1127262879092056067/1312879765744521216/casey-horner-O0R5XZfKUGQ-unsplash_resize_renamed.jpg?ex=674e1a10&is=674cc890&hm=8eca1ebbef1a63e8716c29924cb418818a4422d846819a9d803c0e6ae566e878&=&format=webp&width=1440&height=491)
+
+#Adeline
 
 
 ## Hello there 👋
@@ -10,7 +12,7 @@ Although I loved caring for patients, I realised that the healthcare environment
 I always enjoyed tech, especially CSS and HTML when I was in high school.
 Now that I discovered other languages, I'd like to be a fullstack developper.
 
-<img src="https://images.unsplash.com/photo-1508317469940-e3de49ba902e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Picture of lines of code" style="width: 100%; height: 50px; object-fit: cover; border-radius: 10px; box-shadow: 0px 0px 15px rgba(3,97,123,0.5); ">
+![personal skills](https://media.discordapp.net/attachments/1127262879092056067/1312880536070524948/personal_skills.jpg?ex=674e1ac7&is=674cc947&hm=521a0f5505de9f83847a06a84f6602ce5e609c265f50bb806a9aece89906e193&=&format=webp&width=1440&height=77)
 
 ## 🛠️ Hard Skills
 - Git & Github
@@ -29,7 +31,8 @@ Now that I discovered other languages, I'd like to be a fullstack developper.
 - Good communication skills (written and oral)
 
 ___
-<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Picture of a word map" style="width: 100%; height: 50px; object-fit: cover; border-radius: 10px; box-shadow: 0px 0px 15px rgba(3,97,123,0.5); ">
+
+![Satelite's view of world at night](https://media.discordapp.net/attachments/1127262879092056067/1312880891642777651/wolrd.jpg?ex=674e1b1c&is=674cc99c&hm=2b10c538d7c70308cbe5aefd9076103af8eabf3dde3cf936d7a2288ad18807ef&=&format=webp&width=1440&height=77)
 
 | 🗣️ Languages | ↗️ Level |
 | ------------- | ----- |

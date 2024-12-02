@@ -1,6 +1,7 @@
-![banner](./banner-welcome-min_v2.png)
+![banner](./welcome-banner.jpg)
 
 <h2 align='center'> Hello there ! ✨ </h2>
+
 I'm Adeline and I am a 1st year software development student at <a href="https://www.linkedin.com/school/laplateformeio/">La Plateforme_</a>. I'm curious and a fast learner.
 
 I used to be a nurse, I worked at a hospital for three years.
@@ -9,21 +10,22 @@ Although I loved caring for patients, I realised that the healthcare environment
 I always enjoyed tech, especially CSS and HTML when I was in high school.
 Now that I discovered other languages, I'd like to be a fullstack developper.
 
-## 🔗 Contact
+## About me
+
+🌍 Marseille, France
+
+### 🔗 Contact me
+
 <a href="www.linkedin.com/in/adeline-patenne/"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="linkedin logo" style="width: 32px;"></a> <a href="mailto:adeline.patenne@laplateforme.io"><img src="./mail.svg" alt="icon email" height="28px"></a>
 
 
 ## 🛠️ Hard Skills
+
 <img src="https://www.svgrepo.com/show/452210/git.svg" height="32px" alt="logo git">
-<img src="./github.svg" height="32px" alt="logo GitHub"> 
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="logo HTML" height="32px"> 
-<img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="logo CSS" height="32px"> 
-<img src="https://www.svgrepo.com/show/452202/figma.svg" alt="logo Figma" height="32px"> 
-<img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" alt="logo Wordpress" height="32px"> 
-<img src="./elementor.svg" alt="logo Elementor" height="32px"> 
-<img src="https://www.svgrepo.com/show/452091/python.svg" alt="logo Python" height="32px">
+<img src="./github.svg" height="32px" alt="logo GitHub"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="logo HTML" height="32px"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="logo CSS" height="32px"> <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="logo Figma" height="32px"> <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" alt="logo Wordpress" height="32px"> <img src="./elementor.svg" alt="logo Elementor" height="32px"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="logo Python" height="32px">
 
 ## 🤝 Soft Skills
+
 - Organisational skills
 - Prioritizing skills
 - Teamwork
@@ -41,6 +43,7 @@ ___
 | 🇯🇵 | *Japanese* (beginner) |
 
 ## Projects list
+
 - [Tictactoe](https://github.com/AdelinePat/tictactoe)
 - [Bloom Petals](https://github.com/AdelinePat/webdesign-fleuriste)
 - [Limonade - Fansite](https://github.com/AdelinePat/fansite)

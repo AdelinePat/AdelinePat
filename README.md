@@ -50,8 +50,7 @@ ___
 
 ## GitHub Stats
 
-![Adeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelinePat&show_icons=true&theme=radical)
-
+![Adeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelinePat&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinePat&layout=donut&theme=radical)](https://github.com/AdelinePat/github-readme-stats)
 
 ## 🏆 GitHub Profile Trophy

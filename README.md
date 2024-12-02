@@ -21,8 +21,8 @@ Now that I discovered other languages, I'd like to be a fullstack developper.
 
 ## 🛠️ Hard Skills
 
-<p><img src="https://www.svgrepo.com/show/452210/git.svg" height="32px" alt="logo git">
-<img src="./github.svg" height="32px" alt="logo GitHub"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="logo HTML" height="32px"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="logo CSS" height="32px"> <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="logo Figma" height="32px"> <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" alt="logo Wordpress" height="32px"> <img src="./elementor.svg" alt="logo Elementor" height="32px"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="logo Python" height="32px">
+<p><img src="https://www.svgrepo.com/show/452210/git.svg" height="32px" alt="logo git" title="Git">
+<img src="./github.svg" height="32px" alt="logo GitHub" title="GitHub"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="logo HTML" height="32px" title="HTML"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="logo CSS" height="32px" title="CSS"> <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="logo Figma" height="32px" title="Figma"> <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" alt="logo Wordpress" height="32px" title="Wordpress"> <img src="./elementor.svg" alt="logo Elementor" height="32px" title="Elementor"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="logo Python" height="32px" title="Python">
 
 ## 🤝 Soft Skills
 

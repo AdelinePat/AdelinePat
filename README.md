@@ -17,7 +17,7 @@ Now that I discovered other languages, I'd like to be a fullstack developper.
 ### 🔗 Contact me
 
 <a href="www.linkedin.com/in/adeline-patenne/"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="linkedin logo" style="width: 32px;"></a> <a href="mailto:adeline.patenne@laplateforme.io"><img src="./mail.svg" alt="icon email" height="28px"></a>
-
+🌐 <a href="https://adelinepat.github.io/portfolio/index.html">Portfolio</a>
 
 ## 🛠️ Hard Skills
 

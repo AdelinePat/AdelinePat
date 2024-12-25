@@ -14,10 +14,15 @@ Now that I discovered other languages, I'd like to be a fullstack developper.
 
 🌍 Marseille, France
 
-### 🔗 Contact me
 
-<a href="www.linkedin.com/in/adeline-patenne/"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="linkedin logo" style="width: 32px;"></a> <a href="mailto:adeline.patenne@laplateforme.io"><img src="./mail.svg" alt="icon email" height="28px"></a>
-🌐 <a href="https://adelinepat.github.io/portfolio/index.html">Portfolio</a>
+
+### 🔗 Links
+
+<a href="www.linkedin.com/in/adeline-patenne/"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="linkedin logo" style="width: 20px; vertical-align: bottom;"> LinkedIn</a>
+
+<a href="https://adelinepat.github.io/portfolio/index.html">🌐 Portfolio</a>
+
+<a href="mailto:adeline.patenne@laplateforme.io">✉️ Send me an e-mail</a>
 
 ## 🛠️ Hard Skills
 

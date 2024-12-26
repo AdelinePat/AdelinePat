@@ -11,23 +11,39 @@ I always enjoyed tech, especially CSS and HTML when I was in high school.
 Now that I discovered other languages, I'd like to be a fullstack developper.
 
 ## About me
-
+<!-- ![Figma](https://img.shields.io/badge/NOMDUBADGE-COULEURDEFOND?style=for-the-badge&logo=NOMDUBADGE&logoColor=white) -->
 🌍 Marseille, France
-
-
 
 ### 🔗 Links
 
-<a href="www.linkedin.com/in/adeline-patenne/"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="linkedin logo" style="width: 20px; vertical-align: bottom;"> LinkedIn</a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeline-patenne/)  
+[![portfolio](https://img.shields.io/badge/🌐%20Portfolio-282828?style=for-the-badge&logo=&logoColor=60C6ED)](https://adelinepat.github.io/portfolio/index.html)  
+[![gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeline.patenne@laplateforme.io)  
+<!-- <a href="https://www.linkedin.com/in/adeline-patenne/"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="linkedin logo" style="width: 20px; vertical-align: bottom;"> LinkedIn</a>
 
 <a href="https://adelinepat.github.io/portfolio/index.html">🌐 Portfolio</a>
 
-<a href="mailto:adeline.patenne@laplateforme.io">✉️ Send me an e-mail</a>
+<a href="mailto:adeline.patenne@laplateforme.io">✉️ Send me an e-mail</a> -->
 
 ## 🛠️ Hard Skills
-
-<p><img src="https://www.svgrepo.com/show/452210/git.svg" height="32px" alt="logo git" title="Git">
-<img src="./github.svg" height="32px" alt="logo GitHub" title="GitHub"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="logo HTML" height="32px" title="HTML"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="logo CSS" height="32px" title="CSS"> <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="logo Figma" height="32px" title="Figma"> <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" alt="logo Wordpress" height="32px" title="Wordpress"> <img src="./elementor.svg" alt="logo Elementor" height="32px" title="Elementor"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="logo Python" height="32px" title="Python">
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<!-- <p><img src="https://www.svgrepo.com/show/452210/git.svg" height="32px" alt="logo git" title="Git">
+<img src="./github.svg" height="32px" alt="logo GitHub" title="GitHub"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="logo HTML" height="32px" title="HTML"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="logo CSS" height="32px" title="CSS"> <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="logo Figma" height="32px" title="Figma"> <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" alt="logo Wordpress" height="32px" title="Wordpress"> <img src="./elementor.svg" alt="logo Elementor" height="32px" title="Elementor"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="logo Python" height="32px" title="Python"> -->
 
 ## 🤝 Soft Skills
 

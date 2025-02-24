@@ -18,7 +18,7 @@ Now that I discovered other languages, I'd like to be a fullstack developper.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeline-patenne/)  
-[![portfolio](https://img.shields.io/badge/🌐%20Portfolio-282828?style=for-the-badge&logo=&logoColor=60C6ED)](https://adelinepat.github.io/portfolio/index.html)  
+[![portfolio](https://img.shields.io/badge/🌐%20Portfolio-282828?style=for-the-badge&logo=&logoColor=60C6ED)](https://adeline-patenne.students-laplateforme.io/portfolio.php)  
 [![gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeline.patenne@laplateforme.io)  
 <!-- <a href="https://www.linkedin.com/in/adeline-patenne/"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="linkedin logo" style="width: 20px; vertical-align: bottom;"> LinkedIn</a>
 

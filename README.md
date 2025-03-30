@@ -66,10 +66,18 @@ ___
 
 ## Projects list
 
-- [Portfolio](https://github.com/AdelinePat/portfolio)
+ | Software with GUI | Software without GUI | Web |
+ | -------- | -------------------- | --- |
+| [Minesweeper](https://github.com/AdelinePat/minesweeper) | [Calculator](https://github.com/AdelinePat/my_calculator) | [Portfolio](https://github.com/AdelinePat/portfolio) |
+| [Fruit Slicer](https://github.com/AdelinePat/typing-game) | [Tic Tac Toe](https://github.com/AdelinePat/tictactoe) | [Azertype](https://github.com/AdelinePat/AzerType) |
+| [Budget Buddy](https://github.com/AdelinePat/budget_buddy) | [Clock](https://github.com/AdelinePat/clock) | [Limonade - Fansine](https://github.com/AdelinePat/fansite) |
+| [Pokemon](https://github.com/AdelinePat/pokemon) | | [Bloom Petal](https://github.com/AdelinePat/webdesign-fleuriste) |
+| [Hangman](https://github.com/AdelinePat/hangman) | | |
+
+<!-- - [Portfolio](https://github.com/AdelinePat/portfolio)
 - [Minesweeper](https://github.com/AdelinePat/minesweeper)
 - [Fruit Slicer](https://github.com/AdelinePat/typing-game)
-- [Budget Buddy](https://github.com/AdelinePat/budget_buddy)
+- [Budget Buddy](https://github.com/AdelinePat/budget_buddy) -->
 
 ## GitHub Stats
 

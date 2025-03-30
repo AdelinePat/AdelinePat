@@ -47,6 +47,7 @@ Now that I discovered other languages, I'd like to be a fullstack developper.
 
 ## 🤝 Soft Skills
 
+- Leadership
 - Organisational skills
 - Prioritizing skills
 - Teamwork
@@ -65,9 +66,10 @@ ___
 
 ## Projects list
 
-- [Tictactoe](https://github.com/AdelinePat/tictactoe)
-- [Bloom Petals](https://github.com/AdelinePat/webdesign-fleuriste)
-- [Limonade - Fansite](https://github.com/AdelinePat/fansite)
+- [Portfolio](https://github.com/AdelinePat/portfolio)
+- [Minesweeper](https://github.com/AdelinePat/minesweeper)
+- [Fruit Slicer](https://github.com/AdelinePat/typing-game)
+- [Budget Buddy](https://github.com/AdelinePat/budget_buddy)
 
 ## GitHub Stats
 
@@ -77,5 +79,4 @@ ___
 ## 🏆 GitHub Profile Trophy
 
 [![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=AdelinePat&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 

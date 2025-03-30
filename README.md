@@ -2,6 +2,10 @@
 
 <h1 align='center'> Hello there ! ✨ </h1>
 
+
+<!-- ![Figma](https://img.shields.io/badge/NOMDUBADGE-COULEURDEFOND?style=for-the-badge&logo=NOMDUBADGE&logoColor=white) -->
+
+
 I'm Adeline and I am a 1st year software development student at <a href="https://www.linkedin.com/school/laplateformeio/">La Plateforme_</a>. I'm curious and a fast learner.
 
 I used to be a nurse, I worked at a hospital for three years.
@@ -10,12 +14,10 @@ Although I loved caring for patients, I realised that the healthcare environment
 I always enjoyed tech, especially CSS and HTML when I was in high school.
 Now that I discovered other languages, I'd like to be a fullstack developper.
 
-## About me
-<!-- ![Figma](https://img.shields.io/badge/NOMDUBADGE-COULEURDEFOND?style=for-the-badge&logo=NOMDUBADGE&logoColor=white) -->
+
+<!-- ### 🔗 Links -->
+## 💬 Contact me
 🌍 Marseille, France
-
-### 🔗 Links
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeline-patenne/)  
 [![portfolio](https://img.shields.io/badge/🌐%20Portfolio-282828?style=for-the-badge&logo=&logoColor=60C6ED)](https://adeline-patenne.students-laplateforme.io/portfolio.php)  
@@ -64,7 +66,7 @@ ___
 | 🇪🇸 | *Spanish* (beginner) |
 | 🇯🇵 | *Japanese* (beginner) |
 
-## Projects list
+## 📋 Projects list
 
  | Software with GUI | Software without GUI | Web |
  | -------- | -------------------- | --- |
@@ -79,7 +81,7 @@ ___
 - [Fruit Slicer](https://github.com/AdelinePat/typing-game)
 - [Budget Buddy](https://github.com/AdelinePat/budget_buddy) -->
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 ![Adeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelinePat&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinePat&layout=donut&theme=radical)](https://github.com/AdelinePat/github-readme-stats)

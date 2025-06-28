@@ -9,10 +9,9 @@
 I'm Adeline and I am a 1st year software development student at <a href="https://www.linkedin.com/school/laplateformeio/">La Plateforme_</a>. I'm curious and a fast learner.
 
 I used to be a nurse, I worked at a hospital for three years.
-Although I loved caring for patients, I realised that the healthcare environment was not for me. 
+Although I loved caring for patients, I realised that the healthcare environment was not the right fit for me. 
 
-I always enjoyed tech, especially CSS and HTML when I was in high school.
-Now that I discovered other languages, I'd like to be a fullstack developper.
+I’ve always liked tech, with a strong interest in backend and low-level programming. I’m flexible and keen to grow in any role.
 
 
 <!-- ### 🔗 Links -->
@@ -34,8 +33,8 @@ Now that I discovered other languages, I'd like to be a fullstack developper.
 ![Elementor](https://img.shields.io/badge/elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
 
 ### Programming languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -59,8 +58,8 @@ Now that I discovered other languages, I'd like to be a fullstack developper.
 ![Terminal](https://img.shields.io/badge/Linux_CLI-000000?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
 ### Design Software
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)
 
 *Note: I'm constantly growing these skills — I include tools I’ve used in real-world projects, courses, or personal experimentation.*
 

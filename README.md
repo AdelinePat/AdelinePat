@@ -22,31 +22,50 @@ Now that I discovered other languages, I'd like to be a fullstack developper.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeline-patenne/)  
 [![portfolio](https://img.shields.io/badge/🌐%20Portfolio-282828?style=for-the-badge&logo=&logoColor=60C6ED)](https://adeline-patenne.students-laplateforme.io/portfolio.php)  
 [![gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeline.patenne@laplateforme.io)  
-<!-- <a href="https://www.linkedin.com/in/adeline-patenne/"><img src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="linkedin logo" style="width: 20px; vertical-align: bottom;"> LinkedIn</a>
-
-<a href="https://adelinepat.github.io/portfolio/index.html">🌐 Portfolio</a>
-
-<a href="mailto:adeline.patenne@laplateforme.io">✉️ Send me an e-mail</a> -->
-
+___
+___
 ## 🛠️ Hard Skills
+### Tools & IDE
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+
+### Programming languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Databases & Data Handling
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Operating Systems & Virtualization
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+
+### Shell & Scripting
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Terminal](https://img.shields.io/badge/Linux_CLI-000000?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+
+### Design Software
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-<!-- <p><img src="https://www.svgrepo.com/show/452210/git.svg" height="32px" alt="logo git" title="Git">
-<img src="./github.svg" height="32px" alt="logo GitHub" title="GitHub"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="logo HTML" height="32px" title="HTML"> <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="logo CSS" height="32px" title="CSS"> <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="logo Figma" height="32px" title="Figma"> <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" alt="logo Wordpress" height="32px" title="Wordpress"> <img src="./elementor.svg" alt="logo Elementor" height="32px" title="Elementor"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="logo Python" height="32px" title="Python"> -->
 
+*Note: I'm constantly growing these skills — I include tools I’ve used in real-world projects, courses, or personal experimentation.*
+___
+___
 ## 🤝 Soft Skills
 
 - Leadership
@@ -66,20 +85,16 @@ ___
 | 🇪🇸 | *Spanish* (beginner) |
 | 🇯🇵 | *Japanese* (beginner) |
 
+___
+___
 ## 📋 Projects list
 
  | Software with GUI | Software without GUI | Web |
  | -------- | -------------------- | --- |
-| [Minesweeper](https://github.com/AdelinePat/minesweeper) | [Calculator](https://github.com/AdelinePat/my_calculator) | [Portfolio](https://github.com/AdelinePat/portfolio) |
-| [Fruit Slicer](https://github.com/AdelinePat/typing-game) | [Tic Tac Toe](https://github.com/AdelinePat/tictactoe) | [Azertype](https://github.com/AdelinePat/AzerType) |
-| [Budget Buddy](https://github.com/AdelinePat/budget_buddy) | [Clock](https://github.com/AdelinePat/clock) | [Limonade - Fansine](https://github.com/AdelinePat/fansite) |
-| [Pokemon](https://github.com/AdelinePat/pokemon) | | [Bloom Petal](https://github.com/AdelinePat/webdesign-fleuriste) |
-| [Hangman](https://github.com/AdelinePat/hangman) | | |
-
-<!-- - [Portfolio](https://github.com/AdelinePat/portfolio)
-- [Minesweeper](https://github.com/AdelinePat/minesweeper)
-- [Fruit Slicer](https://github.com/AdelinePat/typing-game)
-- [Budget Buddy](https://github.com/AdelinePat/budget_buddy) -->
+| [Tower Defense](https://github.com/AdelinePat/tower-defense) (C++) | [GlobalConverter](https://github.com/AdelinePat/globalConverter) (Java) | [Portfolio](https://github.com/AdelinePat/portfolio) (Javascript/PHP) |
+| [myDiscord](https://github.com/AdelinePat/myDiscord) (C) | [Calculator](https://github.com/AdelinePat/my_calculator) (Python)| [Azertype](https://github.com/AdelinePat/AzerType) (Javascript) |
+| [Minesweeper](https://github.com/AdelinePat/minesweeper) (Python) |  [Tic Tac Toe](https://github.com/AdelinePat/tictactoe) (Python) | [Limonade - Fansine](https://github.com/AdelinePat/fansite) (HTML/CSS)|
+| [Budget Buddy](https://github.com/AdelinePat/budget_buddy) (Python)| [Clock](https://github.com/AdelinePat/clock) (Python)| [Bloom Petal](https://github.com/AdelinePat/webdesign-fleuriste) (HTML/CSS)|
 
 ## 📈 GitHub Stats
 

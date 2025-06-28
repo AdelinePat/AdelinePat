@@ -22,8 +22,7 @@ Now that I discovered other languages, I'd like to be a fullstack developper.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeline-patenne/)  
 [![portfolio](https://img.shields.io/badge/🌐%20Portfolio-282828?style=for-the-badge&logo=&logoColor=60C6ED)](https://adeline-patenne.students-laplateforme.io/portfolio.php)  
 [![gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeline.patenne@laplateforme.io)  
-___
-___
+
 ## 🛠️ Hard Skills
 ### Tools & IDE
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -64,8 +63,7 @@ ___
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 *Note: I'm constantly growing these skills — I include tools I’ve used in real-world projects, courses, or personal experimentation.*
-___
-___
+
 ## 🤝 Soft Skills
 
 - Leadership
@@ -85,8 +83,7 @@ ___
 | 🇪🇸 | *Spanish* (beginner) |
 | 🇯🇵 | *Japanese* (beginner) |
 
-___
-___
+
 ## 📋 Projects list
 
  | Software with GUI | Software without GUI | Web |

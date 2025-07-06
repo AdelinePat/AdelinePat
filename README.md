@@ -96,6 +96,7 @@ ___
 | [Budget Buddy](https://github.com/AdelinePat/budget_buddy) (Python)|  [Tic Tac Toe](https://github.com/AdelinePat/tictactoe) (Python) | [Bloom Petal](https://github.com/AdelinePat/webdesign-fleuriste) (HTML/CSS)|
 
 ## 📈 GitHub Stats
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=AdelinePat&label=Profile%20views&base=1230&abbreviated=true&color=31A8FF&style=for-the-badge" alt="AdelinePat view stats" /> 
 
 ![Adeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelinePat&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinePat&layout=donut&theme=radical)](https://github.com/AdelinePat/github-readme-stats)

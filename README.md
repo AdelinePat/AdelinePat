@@ -42,6 +42,8 @@ I’ve always liked tech, with a strong interest in backend and low-level progra
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<!-- ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white) -->
+
 
 ### Databases & Data Handling
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
@@ -85,12 +87,13 @@ ___
 
 ## 📋 Projects list
 
+
  | Software with GUI | Software without GUI | Web |
  | -------- | -------------------- | --- |
 | [Tower Defense](https://github.com/AdelinePat/tower-defense) (C++) | [GlobalConverter](https://github.com/AdelinePat/globalConverter) (Java) | [Portfolio](https://github.com/AdelinePat/portfolio) (Javascript/PHP) |
-| [myDiscord](https://github.com/AdelinePat/myDiscord) (C) | [Calculator](https://github.com/AdelinePat/my_calculator) (Python)| [Azertype](https://github.com/AdelinePat/AzerType) (Javascript) |
-| [Minesweeper](https://github.com/AdelinePat/minesweeper) (Python) |  [Tic Tac Toe](https://github.com/AdelinePat/tictactoe) (Python) | [Limonade - Fansine](https://github.com/AdelinePat/fansite) (HTML/CSS)|
-| [Budget Buddy](https://github.com/AdelinePat/budget_buddy) (Python)| [Clock](https://github.com/AdelinePat/clock) (Python)| [Bloom Petal](https://github.com/AdelinePat/webdesign-fleuriste) (HTML/CSS)|
+| [myDiscord](https://github.com/AdelinePat/myDiscord) (C) | [Rock Paper Scissors](https://github.com/AdelinePat/rock-paper-scissors) (C++) | [Azertype](https://github.com/AdelinePat/AzerType) (Javascript) |
+| [Minesweeper](https://github.com/AdelinePat/minesweeper) (Python) | [Calculator](https://github.com/AdelinePat/my_calculator) (Python) | [Limonade - Fansine](https://github.com/AdelinePat/fansite) (HTML/CSS)|
+| [Budget Buddy](https://github.com/AdelinePat/budget_buddy) (Python)|  [Tic Tac Toe](https://github.com/AdelinePat/tictactoe) (Python) | [Bloom Petal](https://github.com/AdelinePat/webdesign-fleuriste) (HTML/CSS)|
 
 ## 📈 GitHub Stats
 

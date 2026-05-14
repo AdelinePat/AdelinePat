@@ -44,7 +44,7 @@ I’m still exploring and learning, but I’m particularly drawn to environments
 ## 💬 Contact me
 🌍 Marseille, France
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/adeline-patenne/) [![Portfolio](https://custom-icon-badges.demolab.com/badge/🌐%20Portfolio-282828?logoColor=60C6ED)](https://www.linkedin.com/in/adeline-patenne/) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeline.patenne@laplateforme.io)  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/adeline-patenne/) [![Portfolio](https://custom-icon-badges.demolab.com/badge/🌐%20Portfolio-282828?logoColor=60C6ED)](https://adeline-patenne.students-laplateforme.io/) [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeline.patenne@laplateforme.io)  
 
 ## 🛠️ Technical Stack
 ### ⚙️ Environment & Tooling

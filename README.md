@@ -1,10 +1,6 @@
-![banner](./welcome-banner.jpg)
+![banner](./assets/welcome-banner.jpg)
 
 <h1 align='center'> Hello there ! ✨ </h1>
-
-
-<!-- ![Figma](https://img.shields.io/badge/NOMDUBADGE-COULEURDEFOND?style=for-the-badge&logo=NOMDUBADGE&logoColor=white) -->
-
 
 I’m a software development apprentice currently pursuing a Bachelor’s degree in IT, working on building and delivering applications from scratch to production.
 
@@ -73,11 +69,16 @@ I’m still exploring and learning, but I’m particularly drawn to environments
 ___
 
 ## 📈 GitHub Stats
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=AdelinePat&label=Profile%20views&base=1230&abbreviated=true&color=31A8FF&style=for-the-badge" alt="AdelinePat view stats" /> 
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=AdelinePat&label=Profile%20views&base=1230&abbreviated=true&color=31A8FF&style=for-the-badge" alt="AdelinePat view stats" />  -->
 
-![Adeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelinePat&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelinePat&layout=donut&theme=radical)](https://github.com/AdelinePat/github-readme-stats)
+<!-- ![Adeline's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdelinePat&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdelinePat&theme=tokyonight&utcOffset=0) -->
+![Last year commit stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdelinePat&theme=tokyonight)
+[![Top Langs per repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdelinePat&theme=tokyonight)](https://github.com/AdelinePat/github-readme-stats)
+![Top Langs per commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdelinePat&theme=tokyonight)
 
 ## 🏆 GitHub Profile Trophy
 
 [![Trophées GitHub](https://github-trophies.vercel.app/?username=AdelinePat&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!--  https://github-profile-summary-cards.vercel.app/demo.html  -->
